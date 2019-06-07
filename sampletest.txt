@@ -1,1 +1,2 @@
 this is a first code file
+it is file for github 
